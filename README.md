@@ -2,16 +2,17 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Amitoj Singh`
+- **CCID:** `amitoj2`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
-
+`N/A`
 ## Verbal Collaboration
 
 | Student Name | CCID     |
 | ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+| `Saksham` | `saksham5` |
+| `Uday Mehtab Singh` | `udaymeht` |
+| `Luke` | `<CCID>` |
+| `Neil` | `<CCID>` |
